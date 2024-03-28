@@ -1,0 +1,4 @@
+[submodule "plugins/obsidian-go-up"]
+	path = plugins/obsidian-go-up
+	url = https://github.com/JinMuGo/obsidian-go-up
+	branch = main
